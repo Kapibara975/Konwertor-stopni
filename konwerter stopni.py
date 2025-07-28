@@ -69,4 +69,4 @@ while True:
                 print('OK!')
                 print("-----------------------------")
         
-        
+open('C:\\DOM\\2023_CANCUN\\IMG_20231207_122201',r)    
